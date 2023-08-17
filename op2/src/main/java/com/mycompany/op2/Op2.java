@@ -11,6 +11,9 @@ package com.mycompany.op2;
 public class Op2 {
     //comenzando por segunda vez
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        //Creacion de Variables
+        
+        int n1,n2,suma,resta,mult,div;
+        String op;
     }
 }
