@@ -14,6 +14,7 @@ public class Op2 {
         //Creacion de Variables
         
         int n1,n2,suma,resta,mult,div;
-        String op;
+       
+        
     }
 }
